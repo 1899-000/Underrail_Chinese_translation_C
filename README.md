@@ -1,0 +1,2 @@
+# Underrail_Chinese_translation_C
+游戏Underrail的C版中文翻译补丁
